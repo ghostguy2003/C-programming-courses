@@ -6,6 +6,7 @@ int main (void){
     int weight,weight2;
     int sumteam1 = 0;
     int sumteam2 = 0;
+    bool x=sumteam1>sumteam2;
     scanf("%d", &players);
     int noplayers=(2*players)-1;
     
@@ -18,10 +19,8 @@ int main (void){
             sumteam2=sumteam2+weight2;
         }
     }
-   
-    condition = (sumteam1 > sumteam2);
-    
-    if (condition){
+       
+    if (x){
         printf("Team 1 has an advantage\nTotal weight for team 1: %d\nTotal weight for team 2: %d", sumteam1, sumteam2);
     }
     else{
