@@ -1,3 +1,8 @@
+/*The goal of this problem is to find the smallest integer in a list of numbers.
+To help you with this task, please write a function called min() that finds and returns the smallest amongst two integers (be sure to also write a prototype for this function). 
+The function thus takes two integers as input and returns the smallest of the two. 
+This function will use an if statement with a condition that contains either "less than" or "greater than".*/
+
 #include <stdio.h>
 
 int min(int[],int);
