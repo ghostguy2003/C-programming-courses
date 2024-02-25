@@ -1,3 +1,7 @@
+//You enter the population and enter the annual growth percentage and the program calculates the expected population in integer value
+
+
+
 #include <stdio.h>
 
 int main (void){
