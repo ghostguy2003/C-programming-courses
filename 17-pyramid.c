@@ -1,3 +1,6 @@
+//Creates pyramid according to desired sign
+
+
 #include <stdio.h>
 int main (void){
     char sign;
