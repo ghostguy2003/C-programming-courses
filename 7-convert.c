@@ -1,3 +1,5 @@
+//Converts from kilometers to miles
+
 #include <stdio.h>
 int main (void){
     double miles,kilo;
