@@ -1,3 +1,7 @@
+//Converts temperature from Celsius to Fahrenheit
+
+
+
 #include <stdio.h>
 int main (void){
     double cel,fahr;
