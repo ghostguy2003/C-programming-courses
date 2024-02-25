@@ -1,3 +1,5 @@
+//Takes number of inputs determined by user and calculates their average
+
 #include <stdio.h>
 
 int main (void){
