@@ -1,3 +1,6 @@
+//Prints programming in c by format specifier
+
+
 #include <stdio.h>
 int main(void) {
     char letter1,letter2,lag;
